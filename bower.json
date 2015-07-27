@@ -1,0 +1,16 @@
+{
+  "name": "starting_html",
+  "version": "0.0.0",
+  "dependencies": {
+    "bootstrap-sass-official": "~3.1.1"
+  },
+  "description": "Starting HTML Tempalte",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}

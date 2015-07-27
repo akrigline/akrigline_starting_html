@@ -1,0 +1,16 @@
+# humanstxt.org/
+# The humans responsible & technology colophon
+
+# TEAM
+
+    Andrew Krigline -- Front-end Designer/Developer -- @akrigline
+    Lauren Bush -- Designer/Developer
+
+# THANKS
+
+    A.M. Design Group
+
+# TECHNOLOGY COLOPHON
+
+    HTML5, CSS3
+    jQuery, Modernizr
