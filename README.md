@@ -14,3 +14,6 @@ gulp watch
 will keep the style.css up to date whenever the scss files change.
 
 Note that there's a hidden folder here .scss-cache, that will be copied if you just move the whole directory to a server.
+
+gulp watch
+will keep css file up to date.
